@@ -1,6 +1,6 @@
 # React Shopping Cart
 
-![alt text](https://github.com/Dev-VRaj/react-shppingcart/blob/main/screenshots\Screenshot-1.png?raw=true)
+![alt text](https://github.com/Dev-VRaj/react-shppingcart/blob/main/screenshots/Screenshot-1.png?raw=true)
 
 ## Available Scripts
 
